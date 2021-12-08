@@ -1,0 +1,13 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "teste": "npx cowsay 'Gabriel Neves' -y && npm run teste2",
+    "teste2": "npx cowsay 'Gabriel Neves 2' -y",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
